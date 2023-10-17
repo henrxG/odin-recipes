@@ -1,0 +1,23 @@
+* {
+    background-color: #F5E8B7;
+}
+.Überschrift {
+    color: #6A9C89;
+    text-align: center;
+}
+li{
+    color: #6A9C89;
+    margin-left: 10px;
+}
+a{
+    color: #6A9C89;
+}
+p{
+    color: #6A9C89;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
